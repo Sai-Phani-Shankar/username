@@ -5,7 +5,7 @@ public class ABCDE {
 	JFrame f0=new JFrame();
 	public void ABCDE() {
 		JButton b98=new JButton();
-		b98.setIcon(new ImageIcon("C:\\Users\\Striker46\\Desktop\\inner.jpg"));
+		b98.setIcon(new ImageIcon("inner.jpg"));
 		f0.add(b98);
 		f0.setLayout(new FlowLayout(FlowLayout.CENTER));
 		f0.setSize(1000,1000);
