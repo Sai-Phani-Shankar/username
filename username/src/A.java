@@ -19,7 +19,7 @@ public class A
 		p.setBackground(Color.white);
 		JPanel j=new JPanel();
 		JButton b0=new JButton();
-		b0.setIcon(new ImageIcon("C:\\Users\\Striker46\\Desktop\\login.jpg"));
+		b0.setIcon(new ImageIcon("login.jpg"));
 		p.add(b0,BorderLayout.CENTER);
 		JLabel j0=new JLabel("ADMIN LOGIN");
 		p.add(j0);
